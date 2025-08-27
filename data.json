@@ -1,0 +1,4002 @@
+[
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 75000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Austronesian",
+    "Region": "Poland",
+    "Speakers": 76900000,
+    "Writing System": "Devanagari",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 76000000,
+    "Writing System": "Hangul",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Kra-Dai",
+    "Region": "Vietnam",
+    "Speakers": 57000000,
+    "Writing System": "Latin",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Koreanic",
+    "Region": "China",
+    "Speakers": 22000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Afro-Asiatic",
+    "Region": "Worldwide",
+    "Speakers": 26000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Dravidian",
+    "Region": "Nigeria",
+    "Speakers": 23000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "Philippines",
+    "Speakers": 60000000,
+    "Writing System": "Hangul",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "German",
+    "Family": "Turkic",
+    "Region": "China",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "English",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 83000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 47000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Sino-Tibetan",
+    "Region": "Nigeria",
+    "Speakers": 67000000,
+    "Writing System": "Hangul",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 35000000,
+    "Writing System": "Latin",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Sino-Tibetan",
+    "Region": "Romania",
+    "Speakers": 25000000,
+    "Writing System": "Bengali",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 77000000,
+    "Writing System": "Burmese",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Niger-Congo",
+    "Region": "Pakistan, India",
+    "Speakers": 128000000,
+    "Writing System": "Tamil",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Turkic",
+    "Region": "Indonesia",
+    "Speakers": 341000000,
+    "Writing System": "Telugu",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Kra-Dai",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 25000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 32000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Austroasiatic",
+    "Region": "India",
+    "Speakers": 460000000,
+    "Writing System": "Chinese",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Kra-Dai",
+    "Region": "Korea",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Niger-Congo",
+    "Region": "China",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "English",
+    "Family": "Afro-Asiatic",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Burmese",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 34000000,
+    "Writing System": "Latin",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Austronesian",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 82000000,
+    "Writing System": "Hangul",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 26000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Turkic",
+    "Region": "Germany, Austria",
+    "Speakers": 67000000,
+    "Writing System": "Telugu",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 125000000,
+    "Writing System": "Latin",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Dravidian",
+    "Region": "Azerbaijan",
+    "Speakers": 73000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Afro-Asiatic",
+    "Region": "India, Pakistan",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Indo-European",
+    "Region": "Thailand",
+    "Speakers": 25000000,
+    "Writing System": "Thai",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Dravidian",
+    "Region": "Bangladesh, India",
+    "Speakers": 35000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 25000000,
+    "Writing System": "Tamil",
+    "ISO Code": "awa"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "Worldwide",
+    "Speakers": 60000000,
+    "Writing System": "Latin",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 341000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Austronesian",
+    "Region": "Indonesia",
+    "Speakers": 50000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Turkic",
+    "Region": "Italy",
+    "Speakers": 341000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Niger-Congo",
+    "Region": "Philippines",
+    "Speakers": 125000000,
+    "Writing System": "Oriya",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Sino-Tibetan",
+    "Region": "Romania",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 24000000,
+    "Writing System": "Oriya",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Koreanic",
+    "Region": "India, Pakistan",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Sino-Tibetan",
+    "Region": "China (Hong Kong)",
+    "Speakers": 918000000,
+    "Writing System": "Latin",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Iran",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 69000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-Iranian",
+    "Region": "India",
+    "Speakers": 47000000,
+    "Writing System": "Chinese",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Dravidian",
+    "Region": "Iran",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 47000000,
+    "Writing System": "Chinese",
+    "ISO Code": "es"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Austronesian",
+    "Region": "Italy",
+    "Speakers": 76900000,
+    "Writing System": "Latin",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Niger-Congo",
+    "Region": "Philippines",
+    "Speakers": 27000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 22000000,
+    "Writing System": "Latin",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Afro-Asiatic",
+    "Region": "India",
+    "Speakers": 77000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Afro-Asiatic",
+    "Region": "Ukraine",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 221000000,
+    "Writing System": "Latin",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Koreanic",
+    "Region": "Pakistan, India",
+    "Speakers": 67000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-European",
+    "Region": "Italy",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Afro-Asiatic",
+    "Region": "Pakistan, India",
+    "Speakers": 75000000,
+    "Writing System": "Chinese",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Niger-Congo",
+    "Region": "Vietnam",
+    "Speakers": 25000000,
+    "Writing System": "Telugu",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "Thailand",
+    "Speakers": 69000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "kn"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Turkic",
+    "Region": "West Africa",
+    "Speakers": 82000000,
+    "Writing System": "Chinese",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 60000000,
+    "Writing System": "Latin",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 25000000,
+    "Writing System": "Latin",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 35000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 154000000,
+    "Writing System": "Thai",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Afro-Asiatic",
+    "Region": "Vietnam",
+    "Speakers": 69000000,
+    "Writing System": "Tamil",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Afro-Asiatic",
+    "Region": "Myanmar",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 69000000,
+    "Writing System": "Thai",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Sino-Tibetan",
+    "Region": "Pakistan, India",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Sino-Tibetan",
+    "Region": "Ukraine",
+    "Speakers": 47000000,
+    "Writing System": "Thai",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Tamil",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "Middle East, North Africa",
+    "Speakers": 34000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Austronesian",
+    "Region": "India",
+    "Speakers": 47000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Niger-Congo",
+    "Region": "Poland",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Niger-Congo",
+    "Region": "Portugal, Brazil",
+    "Speakers": 221000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Dravidian",
+    "Region": "China (Hong Kong)",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 221000000,
+    "Writing System": "Latin",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 32000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 50000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "English",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 25000000,
+    "Writing System": "Arabic",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Austronesian",
+    "Region": "Germany, Austria",
+    "Speakers": 50000000,
+    "Writing System": "Bengali",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Japonic",
+    "Region": "Nigeria",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 50000000,
+    "Writing System": "Burmese",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 75000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Niger-Congo",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 20000000,
+    "Writing System": "Latin",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 125000000,
+    "Writing System": "Latin",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Dravidian",
+    "Region": "Uzbekistan",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 75000000,
+    "Writing System": "Arabic",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 341000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Sino-Tibetan",
+    "Region": "West Africa",
+    "Speakers": 67000000,
+    "Writing System": "Latin",
+    "ISO Code": "es"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Koreanic",
+    "Region": "Italy",
+    "Speakers": 24000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "kn"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Austronesian",
+    "Region": "Ethiopia",
+    "Speakers": 24000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 69000000,
+    "Writing System": "Thai",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Austronesian",
+    "Region": "Bangladesh, India",
+    "Speakers": 29000000,
+    "Writing System": "Burmese",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 50000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Austronesian",
+    "Region": "India",
+    "Speakers": 82000000,
+    "Writing System": "Latin",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "Vietnam",
+    "Speakers": 69000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Indo-European",
+    "Region": "Philippines",
+    "Speakers": 24000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Niger-Congo",
+    "Region": "Ethiopia",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Turkic",
+    "Region": "Portugal, Brazil",
+    "Speakers": 23000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 35000000,
+    "Writing System": "Arabic",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Sino-Tibetan",
+    "Region": "Indonesia",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "awa"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 82000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Indo-European",
+    "Region": "Romania",
+    "Speakers": 67000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 128000000,
+    "Writing System": "Arabic",
+    "ISO Code": "yo"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Indo-European",
+    "Region": "Romania",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 75000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Turkish",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 21000000,
+    "Writing System": "Latin",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Afro-Asiatic",
+    "Region": "China",
+    "Speakers": 47000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Niger-Congo",
+    "Region": "Ethiopia",
+    "Speakers": 76000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "English",
+    "Family": "Turkic",
+    "Region": "Philippines",
+    "Speakers": 20000000,
+    "Writing System": "Chinese",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Kra-Dai",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 24000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Indo-European",
+    "Region": "Japan",
+    "Speakers": 77000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 25000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 221000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Austroasiatic",
+    "Region": "Pakistan, India",
+    "Speakers": 20000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Sino-Tibetan",
+    "Region": "Turkey",
+    "Speakers": 221000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 21000000,
+    "Writing System": "Latin",
+    "ISO Code": "yo"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Austroasiatic",
+    "Region": "Middle East, North Africa",
+    "Speakers": 221000000,
+    "Writing System": "Chinese",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Dravidian",
+    "Region": "Germany, Austria",
+    "Speakers": 75000000,
+    "Writing System": "Chinese",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-Iranian",
+    "Region": "Nigeria",
+    "Speakers": 24000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Indo-Iranian",
+    "Region": "Bangladesh, India",
+    "Speakers": 69000000,
+    "Writing System": "Chinese",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 22000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Dravidian",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Gujarati",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Indo-European",
+    "Region": "Vietnam",
+    "Speakers": 230000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 60000000,
+    "Writing System": "Latin",
+    "ISO Code": "es"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Austronesian",
+    "Region": "India",
+    "Speakers": 460000000,
+    "Writing System": "Latin",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Indo-European",
+    "Region": "West Africa",
+    "Speakers": 230000000,
+    "Writing System": "Burmese",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Sino-Tibetan",
+    "Region": "Worldwide",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Sino-Tibetan",
+    "Region": "Indonesia",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Indo-European",
+    "Region": "Azerbaijan",
+    "Speakers": 48000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "German",
+    "Family": "Niger-Congo",
+    "Region": "Germany, Austria",
+    "Speakers": 73000000,
+    "Writing System": "Bengali",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 73000000,
+    "Writing System": "Hangul",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Dravidian",
+    "Region": "China",
+    "Speakers": 77000000,
+    "Writing System": "Arabic",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Kra-Dai",
+    "Region": "Germany, Austria",
+    "Speakers": 76000000,
+    "Writing System": "Burmese",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Indo-European",
+    "Region": "Ukraine",
+    "Speakers": 32000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 379000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 23000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Turkic",
+    "Region": "China",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Sino-Tibetan",
+    "Region": "Germany, Austria",
+    "Speakers": 34000000,
+    "Writing System": "Latin",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 23000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-Iranian",
+    "Region": "Worldwide",
+    "Speakers": 918000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Austronesian",
+    "Region": "Bangladesh, India",
+    "Speakers": 73000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Afro-Asiatic",
+    "Region": "Myanmar",
+    "Speakers": 460000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Indo-European",
+    "Region": "West Africa",
+    "Speakers": 24000000,
+    "Writing System": "Chinese",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-Iranian",
+    "Region": "India",
+    "Speakers": 76900000,
+    "Writing System": "Latin",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Indo-European",
+    "Region": "Japan",
+    "Speakers": 29000000,
+    "Writing System": "Tamil",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Sino-Tibetan",
+    "Region": "Poland",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 28000000,
+    "Writing System": "Kannada",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Austroasiatic",
+    "Region": "India",
+    "Speakers": 918000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Dravidian",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 32000000,
+    "Writing System": "Thai",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 67000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 73000000,
+    "Writing System": "Arabic",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Koreanic",
+    "Region": "Nigeria",
+    "Speakers": 460000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "French",
+    "Family": "Sino-Tibetan",
+    "Region": "West Africa",
+    "Speakers": 73000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "China (Hong Kong)",
+    "Speakers": 221000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Burmese",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Kra-Dai",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 23000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 28000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Kra-Dai",
+    "Region": "China",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Afro-Asiatic",
+    "Region": "China",
+    "Speakers": 48000000,
+    "Writing System": "Chinese",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "German",
+    "Family": "Sino-Tibetan",
+    "Region": "Uzbekistan",
+    "Speakers": 25000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "Azerbaijan",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 57000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 47000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "Italy",
+    "Speakers": 75000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Sino-Tibetan",
+    "Region": "Ethiopia",
+    "Speakers": 48000000,
+    "Writing System": "Arabic",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Kra-Dai",
+    "Region": "Germany, Austria",
+    "Speakers": 128000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 57000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Turkic",
+    "Region": "Korea",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "awa"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 50000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Turkic",
+    "Region": "Pakistan, India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 35000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Japonic",
+    "Region": "India",
+    "Speakers": 460000000,
+    "Writing System": "Oriya",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Sino-Tibetan",
+    "Region": "Portugal, Brazil",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Japonic",
+    "Region": "Italy",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Indo-European",
+    "Region": "Philippines",
+    "Speakers": 82000000,
+    "Writing System": "Chinese",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "English",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 76000000,
+    "Writing System": "Burmese",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Indo-Iranian",
+    "Region": "China",
+    "Speakers": 35000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Sino-Tibetan",
+    "Region": "Japan",
+    "Speakers": 69000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Dravidian",
+    "Region": "Vietnam",
+    "Speakers": 50000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Kra-Dai",
+    "Region": "India",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 48000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 75000000,
+    "Writing System": "Kannada",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 77000000,
+    "Writing System": "Latin",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 21000000,
+    "Writing System": "Latin",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-European",
+    "Region": "Korea",
+    "Speakers": 73000000,
+    "Writing System": "Telugu",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-European",
+    "Region": "Azerbaijan",
+    "Speakers": 20000000,
+    "Writing System": "Latin",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 76900000,
+    "Writing System": "Latin",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Afro-Asiatic",
+    "Region": "Philippines",
+    "Speakers": 25000000,
+    "Writing System": "Bengali",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Koreanic",
+    "Region": "China",
+    "Speakers": 26000000,
+    "Writing System": "Arabic",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Indo-European",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 69000000,
+    "Writing System": "Telugu",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 76000000,
+    "Writing System": "Tamil",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Kra-Dai",
+    "Region": "Indonesia",
+    "Speakers": 73000000,
+    "Writing System": "Chinese",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "Middle East, North Africa",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Indo-European",
+    "Region": "Myanmar",
+    "Speakers": 32000000,
+    "Writing System": "Latin",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Turkic",
+    "Region": "Turkey",
+    "Speakers": 82000000,
+    "Writing System": "Latin",
+    "ISO Code": "ko"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Indo-European",
+    "Region": "Korea",
+    "Speakers": 50000000,
+    "Writing System": "Chinese",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 50000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 379000000,
+    "Writing System": "Tamil",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 379000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 47000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "Iran",
+    "Speakers": 76000000,
+    "Writing System": "Bengali",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Japonic",
+    "Region": "Nigeria",
+    "Speakers": 73000000,
+    "Writing System": "Chinese",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Afro-Asiatic",
+    "Region": "Romania",
+    "Speakers": 460000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 57000000,
+    "Writing System": "Bengali",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Dravidian",
+    "Region": "Thailand",
+    "Speakers": 125000000,
+    "Writing System": "Gujarati",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Sino-Tibetan",
+    "Region": "Ethiopia",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 379000000,
+    "Writing System": "Chinese",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Afro-Asiatic",
+    "Region": "Azerbaijan",
+    "Speakers": 47000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Sino-Tibetan",
+    "Region": "Nigeria",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "ko"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Sino-Tibetan",
+    "Region": "Myanmar",
+    "Speakers": 23000000,
+    "Writing System": "Arabic",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 128000000,
+    "Writing System": "Latin",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 57000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 50000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Sino-Tibetan",
+    "Region": "Nigeria",
+    "Speakers": 73000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Dravidian",
+    "Region": "Romania",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 230000000,
+    "Writing System": "Latin",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Turkic",
+    "Region": "Turkey",
+    "Speakers": 47000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "Poland",
+    "Speakers": 26000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 20000000,
+    "Writing System": "Arabic",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 57000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 48000000,
+    "Writing System": "Tamil",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 918000000,
+    "Writing System": "Latin",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 73000000,
+    "Writing System": "Hangul",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Indo-European",
+    "Region": "Thailand",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Indo-European",
+    "Region": "Ukraine",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "German",
+    "Family": "Kra-Dai",
+    "Region": "Azerbaijan",
+    "Speakers": 83000000,
+    "Writing System": "Burmese",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 32000000,
+    "Writing System": "Arabic",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Niger-Congo",
+    "Region": "Middle East, North Africa",
+    "Speakers": 28000000,
+    "Writing System": "Kannada",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Afro-Asiatic",
+    "Region": "Thailand",
+    "Speakers": 57000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "German",
+    "Family": "Indo-Iranian",
+    "Region": "China",
+    "Speakers": 60000000,
+    "Writing System": "Latin",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 379000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 20000000,
+    "Writing System": "Thai",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Dravidian",
+    "Region": "Worldwide",
+    "Speakers": 69000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Afro-Asiatic",
+    "Region": "Romania",
+    "Speakers": 460000000,
+    "Writing System": "Tamil",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Sino-Tibetan",
+    "Region": "Uzbekistan",
+    "Speakers": 34000000,
+    "Writing System": "Burmese",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Afro-Asiatic",
+    "Region": "Vietnam",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Sino-Tibetan",
+    "Region": "Worldwide",
+    "Speakers": 128000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Niger-Congo",
+    "Region": "Japan",
+    "Speakers": 379000000,
+    "Writing System": "Arabic",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Koreanic",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 26000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Turkish",
+    "Family": "Indo-Iranian",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Afro-Asiatic",
+    "Region": "Azerbaijan",
+    "Speakers": 67000000,
+    "Writing System": "Bengali",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 60000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 128000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Indo-European",
+    "Region": "Romania",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "Thailand",
+    "Speakers": 379000000,
+    "Writing System": "Latin",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 29000000,
+    "Writing System": "Arabic",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 34000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Austroasiatic",
+    "Region": "India",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "Azerbaijan",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Dravidian",
+    "Region": "Myanmar",
+    "Speakers": 128000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 128000000,
+    "Writing System": "Kannada",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Dravidian",
+    "Region": "China",
+    "Speakers": 73000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 25000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Dravidian",
+    "Region": "China",
+    "Speakers": 48000000,
+    "Writing System": "Gujarati",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Indo-European",
+    "Region": "Philippines",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Turkic",
+    "Region": "Worldwide",
+    "Speakers": 27000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 60000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Turkic",
+    "Region": "Bangladesh, India",
+    "Speakers": 76000000,
+    "Writing System": "Kanji, Hiragana, Katakana",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Austronesian",
+    "Region": "Pakistan, India",
+    "Speakers": 26000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "English",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 230000000,
+    "Writing System": "Latin",
+    "ISO Code": "ko"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Niger-Congo",
+    "Region": "India",
+    "Speakers": 20000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 77000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 230000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Jin",
+    "Family": "Dravidian",
+    "Region": "Ethiopia",
+    "Speakers": 50000000,
+    "Writing System": "Thai",
+    "ISO Code": "yo"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 22000000,
+    "Writing System": "Kannada",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "English",
+    "Family": "Austronesian",
+    "Region": "Iran",
+    "Speakers": 24000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Sino-Tibetan",
+    "Region": "Turkey",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 69000000,
+    "Writing System": "Gujarati",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 50000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Indo-European",
+    "Region": "Portugal, Brazil",
+    "Speakers": 22000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 20000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Sino-Tibetan",
+    "Region": "Nigeria",
+    "Speakers": 69000000,
+    "Writing System": "Oriya",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 32000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Afro-Asiatic",
+    "Region": "Nigeria",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "yo"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Koreanic",
+    "Region": "Poland",
+    "Speakers": 75000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "English",
+    "Family": "Dravidian",
+    "Region": "Worldwide",
+    "Speakers": 221000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 35000000,
+    "Writing System": "Bengali",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 83000000,
+    "Writing System": "Burmese",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Indo-European",
+    "Region": "Ukraine",
+    "Speakers": 76000000,
+    "Writing System": "Arabic",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 460000000,
+    "Writing System": "Latin",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Niger-Congo",
+    "Region": "Indonesia",
+    "Speakers": 82000000,
+    "Writing System": "Hangul",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Niger-Congo",
+    "Region": "Worldwide",
+    "Speakers": 82000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Indo-Iranian",
+    "Region": "Pakistan, India",
+    "Speakers": 48000000,
+    "Writing System": "Arabic",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Indo-European",
+    "Region": "Italy",
+    "Speakers": 32000000,
+    "Writing System": "Latin",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Afro-Asiatic",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "Hakka",
+    "Family": "Indo-European",
+    "Region": "Iran",
+    "Speakers": 76900000,
+    "Writing System": "Devanagari",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Afro-Asiatic",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 22000000,
+    "Writing System": "Bengali",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "German",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 23000000,
+    "Writing System": "Arabic",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "Turkey",
+    "Speakers": 75000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Niger-Congo",
+    "Region": "Ethiopia",
+    "Speakers": 67000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Sino-Tibetan",
+    "Region": "Turkey",
+    "Speakers": 341000000,
+    "Writing System": "Latin",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Dravidian",
+    "Region": "Worldwide",
+    "Speakers": 24000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 76000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Austroasiatic",
+    "Region": "India",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Austronesian",
+    "Region": "Myanmar",
+    "Speakers": 67000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 21000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Austronesian",
+    "Region": "Nigeria",
+    "Speakers": 77000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Turkic",
+    "Region": "Nigeria",
+    "Speakers": 25000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 154000000,
+    "Writing System": "Hangul",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "French",
+    "Family": "Sino-Tibetan",
+    "Region": "Pakistan, India",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Sino-Tibetan",
+    "Region": "Poland",
+    "Speakers": 67000000,
+    "Writing System": "Latin",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 69000000,
+    "Writing System": "Chinese",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Turkic",
+    "Region": "Worldwide",
+    "Speakers": 48000000,
+    "Writing System": "Tamil",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 67000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "French",
+    "Family": "Sino-Tibetan",
+    "Region": "Worldwide",
+    "Speakers": 75000000,
+    "Writing System": "Hangul",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Austronesian",
+    "Region": "Germany, Austria",
+    "Speakers": 60000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Japonic",
+    "Region": "India",
+    "Speakers": 154000000,
+    "Writing System": "Hangul",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 28000000,
+    "Writing System": "Tamil",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "Myanmar",
+    "Speakers": 32000000,
+    "Writing System": "Latin",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 21000000,
+    "Writing System": "Latin",
+    "ISO Code": "tl"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Austroasiatic",
+    "Region": "India",
+    "Speakers": 25000000,
+    "Writing System": "Tamil",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Wu (Shanghainese)",
+    "Family": "Indo-Iranian",
+    "Region": "Worldwide",
+    "Speakers": 25000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Dravidian",
+    "Region": "Romania",
+    "Speakers": 20000000,
+    "Writing System": "Latin",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Sino-Tibetan",
+    "Region": "Nigeria",
+    "Speakers": 341000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 25000000,
+    "Writing System": "Latin",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Austroasiatic",
+    "Region": "Indonesia",
+    "Speakers": 274000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 125000000,
+    "Writing System": "Chinese",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Afro-Asiatic",
+    "Region": "Philippines",
+    "Speakers": 21000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Dravidian",
+    "Region": "Uzbekistan",
+    "Speakers": 75000000,
+    "Writing System": "Arabic",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Indo-European",
+    "Region": "Korea",
+    "Speakers": 34000000,
+    "Writing System": "Latin",
+    "ISO Code": "es"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 47000000,
+    "Writing System": "Arabic",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Sino-Tibetan",
+    "Region": "Germany, Austria",
+    "Speakers": 918000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "German",
+    "Family": "Indo-European",
+    "Region": "Japan",
+    "Speakers": 25000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Indo-European",
+    "Region": "China (Hong Kong)",
+    "Speakers": 20000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Thai",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 341000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Javanese",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Bhojpuri",
+    "Family": "Niger-Congo",
+    "Region": "Pakistan, India",
+    "Speakers": 24000000,
+    "Writing System": "Latin",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Austronesian",
+    "Region": "Worldwide",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Dravidian",
+    "Region": "India",
+    "Speakers": 82000000,
+    "Writing System": "Latin",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Indo-European",
+    "Region": "Myanmar",
+    "Speakers": 50000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Turkic",
+    "Region": "Italy",
+    "Speakers": 57000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 27000000,
+    "Writing System": "Chinese",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Sino-Tibetan",
+    "Region": "Italy",
+    "Speakers": 23000000,
+    "Writing System": "Burmese",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-Iranian",
+    "Region": "Worldwide",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Turkic",
+    "Region": "Ukraine",
+    "Speakers": 128000000,
+    "Writing System": "Telugu",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 21000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Sino-Tibetan",
+    "Region": "Pakistan, India",
+    "Speakers": 23000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 918000000,
+    "Writing System": "Tamil",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Turkic",
+    "Region": "Azerbaijan",
+    "Speakers": 50000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Afro-Asiatic",
+    "Region": "West Africa",
+    "Speakers": 21000000,
+    "Writing System": "Oriya",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 76900000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 20000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "English",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 25000000,
+    "Writing System": "Burmese",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Sino-Tibetan",
+    "Region": "Iran",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 76000000,
+    "Writing System": "Hangul",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-Iranian",
+    "Region": "China",
+    "Speakers": 221000000,
+    "Writing System": "Latin",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Burmese",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 128000000,
+    "Writing System": "Oriya",
+    "ISO Code": "hi"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Indo-European",
+    "Region": "Romania",
+    "Speakers": 77000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Polish",
+    "Family": "Indo-European",
+    "Region": "Russia, Eastern Europe",
+    "Speakers": 76900000,
+    "Writing System": "Oriya",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Indo-Iranian",
+    "Region": "Turkey",
+    "Speakers": 27000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 24000000,
+    "Writing System": "Hangul",
+    "ISO Code": "wuu"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Turkic",
+    "Region": "Azerbaijan",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Turkic",
+    "Region": "Ethiopia",
+    "Speakers": 76000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Sundanese",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Sino-Tibetan",
+    "Region": "Worldwide",
+    "Speakers": 21000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 73000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "az"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Kra-Dai",
+    "Region": "Myanmar",
+    "Speakers": 22000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Japanese",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "Persian",
+    "Family": "Sino-Tibetan",
+    "Region": "Poland",
+    "Speakers": 28000000,
+    "Writing System": "Arabic",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Urdu",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 24000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Niger-Congo",
+    "Region": "Pakistan, India",
+    "Speakers": 73000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Afro-Asiatic",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "fr"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Austronesian",
+    "Region": "Romania",
+    "Speakers": 27000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Turkic",
+    "Region": "Germany, Austria",
+    "Speakers": 25000000,
+    "Writing System": "Latin",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Fula",
+    "Family": "Sino-Tibetan",
+    "Region": "Thailand",
+    "Speakers": 76900000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "kn"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Austronesian",
+    "Region": "Japan",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "ml"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Sino-Tibetan",
+    "Region": "Ethiopia",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Sino-Tibetan",
+    "Region": "Philippines",
+    "Speakers": 29000000,
+    "Writing System": "Latin",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 460000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "English",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 125000000,
+    "Writing System": "Latin",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Niger-Congo",
+    "Region": "Philippines",
+    "Speakers": 379000000,
+    "Writing System": "Latin",
+    "ISO Code": "ig"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Indo-European",
+    "Region": "India, Pakistan",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Japonic",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Marathi",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Tamil",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 77000000,
+    "Writing System": "Latin",
+    "ISO Code": "mai"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Dravidian",
+    "Region": "Worldwide",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 27000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Sino-Tibetan",
+    "Region": "China",
+    "Speakers": 69000000,
+    "Writing System": "Latin",
+    "ISO Code": "te"
+  },
+  {
+    "Language": "Turkish",
+    "Family": "Austroasiatic",
+    "Region": "Myanmar",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "om"
+  },
+  {
+    "Language": "Azerbaijani",
+    "Family": "Afro-Asiatic",
+    "Region": "Portugal, Brazil",
+    "Speakers": 35000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "kn"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Indo-European",
+    "Region": "India, Pakistan",
+    "Speakers": 28000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Sino-Tibetan",
+    "Region": "Korea",
+    "Speakers": 75000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Uzbek",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Austronesian",
+    "Region": "Nigeria",
+    "Speakers": 76000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "sd"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 69000000,
+    "Writing System": "Oriya",
+    "ISO Code": "tr"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Dravidian",
+    "Region": "Indonesia",
+    "Speakers": 26000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "de"
+  },
+  {
+    "Language": "Russian",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 47000000,
+    "Writing System": "Telugu",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Dravidian",
+    "Region": "Uzbekistan",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "su"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-Iranian",
+    "Region": "India",
+    "Speakers": 48000000,
+    "Writing System": "Latin",
+    "ISO Code": "jv"
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "Family": "Austroasiatic",
+    "Region": "Portugal, Brazil",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "ff"
+  },
+  {
+    "Language": "German",
+    "Family": "Turkic",
+    "Region": "Poland",
+    "Speakers": 20000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "it"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 379000000,
+    "Writing System": "Tamil",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Italian",
+    "Family": "Afro-Asiatic",
+    "Region": "Indonesia",
+    "Speakers": 24000000,
+    "Writing System": "Shahmukhi, Devanagari",
+    "ISO Code": "ta"
+  },
+  {
+    "Language": "Hausa",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 918000000,
+    "Writing System": "Telugu",
+    "ISO Code": "ko"
+  },
+  {
+    "Language": "Turkish",
+    "Family": "Niger-Congo",
+    "Region": "India",
+    "Speakers": 69000000,
+    "Writing System": "Bengali",
+    "ISO Code": "awa"
+  },
+  {
+    "Language": "German",
+    "Family": "Sino-Tibetan",
+    "Region": "Pakistan, India",
+    "Speakers": 75000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "th"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-European",
+    "Region": "China (Hong Kong)",
+    "Speakers": 221000000,
+    "Writing System": "Arabic",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Korean",
+    "Family": "Sino-Tibetan",
+    "Region": "Turkey",
+    "Speakers": 83000000,
+    "Writing System": "Chinese",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Sino-Tibetan",
+    "Region": "Afghanistan, Pakistan",
+    "Speakers": 47000000,
+    "Writing System": "Tamil",
+    "ISO Code": "en"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Indo-European",
+    "Region": "Italy",
+    "Speakers": 57000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Sino-Tibetan",
+    "Region": "Indonesia",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 379000000,
+    "Writing System": "Gujarati",
+    "ISO Code": "gu"
+  },
+  {
+    "Language": "Sindhi",
+    "Family": "Austronesian",
+    "Region": "China",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 47000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Ukrainian",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 69000000,
+    "Writing System": "Shahmukhi, Gurmukhi",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Oromo",
+    "Family": "Turkic",
+    "Region": "Pakistan, India",
+    "Speakers": 460000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 50000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "or"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Indo-European",
+    "Region": "Ethiopia",
+    "Speakers": 73000000,
+    "Writing System": "Latin",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Pashto",
+    "Family": "Indo-European",
+    "Region": "Middle East, North Africa",
+    "Speakers": 50000000,
+    "Writing System": "Malayalam",
+    "ISO Code": "ja"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "India, Pakistan",
+    "Speakers": 34000000,
+    "Writing System": "Latin",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Dravidian",
+    "Region": "Italy",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Igbo",
+    "Family": "Niger-Congo",
+    "Region": "Worldwide",
+    "Speakers": 35000000,
+    "Writing System": "Chinese",
+    "ISO Code": "mr"
+  },
+  {
+    "Language": "Yoruba",
+    "Family": "Austronesian",
+    "Region": "Ethiopia",
+    "Speakers": 27000000,
+    "Writing System": "Simplified Chinese",
+    "ISO Code": "ru"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Sino-Tibetan",
+    "Region": "India, Pakistan",
+    "Speakers": 24000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "yue"
+  },
+  {
+    "Language": "Gujarati",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 125000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Indo-European",
+    "Region": "Ukraine",
+    "Speakers": 23000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Yue (Cantonese)",
+    "Family": "Niger-Congo",
+    "Region": "China",
+    "Speakers": 341000000,
+    "Writing System": "Latin",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Sino-Tibetan",
+    "Region": "Korea",
+    "Speakers": 341000000,
+    "Writing System": "Devanagari",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Romanian",
+    "Family": "Indo-European",
+    "Region": "Philippines",
+    "Speakers": 25000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "ar"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-European",
+    "Region": "Pakistan, India",
+    "Speakers": 76000000,
+    "Writing System": "Latin",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Portuguese",
+    "Family": "Indo-European",
+    "Region": "Vietnam",
+    "Speakers": 57000000,
+    "Writing System": "Latin",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Arabic",
+    "Family": "Sino-Tibetan",
+    "Region": "Azerbaijan",
+    "Speakers": 82000000,
+    "Writing System": "Latin",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Vietnamese",
+    "Family": "Sino-Tibetan",
+    "Region": "Germany, Austria",
+    "Speakers": 75000000,
+    "Writing System": "Arabic",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-European",
+    "Region": "Uzbekistan",
+    "Speakers": 230000000,
+    "Writing System": "Latin",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 50000000,
+    "Writing System": "Latin",
+    "ISO Code": "cjy"
+  },
+  {
+    "Language": "Hindi",
+    "Family": "Indo-European",
+    "Region": "Bangladesh, India",
+    "Speakers": 76900000,
+    "Writing System": "Latin",
+    "ISO Code": "uk"
+  },
+  {
+    "Language": "Awadhi",
+    "Family": "Indo-European",
+    "Region": "Myanmar",
+    "Speakers": 83000000,
+    "Writing System": "Latin",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "French",
+    "Family": "Turkic",
+    "Region": "Indonesia",
+    "Speakers": 75000000,
+    "Writing System": "Latin",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-European",
+    "Region": "Ukraine",
+    "Speakers": 154000000,
+    "Writing System": "Latin",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-European",
+    "Region": "China (Hong Kong)",
+    "Speakers": 67000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "fa"
+  },
+  {
+    "Language": "Bengali",
+    "Family": "Turkic",
+    "Region": "Uzbekistan",
+    "Speakers": 230000000,
+    "Writing System": "Latin",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Turkish",
+    "Family": "Sino-Tibetan",
+    "Region": "Pakistan, India",
+    "Speakers": 75000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "nan"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Turkic",
+    "Region": "Portugal, Brazil",
+    "Speakers": 24000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "vi"
+  },
+  {
+    "Language": "Malayalam",
+    "Family": "Austronesian",
+    "Region": "China",
+    "Speakers": 28000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "my"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Sino-Tibetan",
+    "Region": "Italy",
+    "Speakers": 32000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "hsn"
+  },
+  {
+    "Language": "Mandarin",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 60000000,
+    "Writing System": "Latin",
+    "ISO Code": "bho"
+  },
+  {
+    "Language": "French",
+    "Family": "Indo-Iranian",
+    "Region": "Nigeria",
+    "Speakers": 50000000,
+    "Writing System": "Cyrillic",
+    "ISO Code": "ro"
+  },
+  {
+    "Language": "Maithili",
+    "Family": "Indo-European",
+    "Region": "Azerbaijan",
+    "Speakers": 32000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "French",
+    "Family": "Austronesian",
+    "Region": "China",
+    "Speakers": 47000000,
+    "Writing System": "Ethiopic",
+    "ISO Code": "zh"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Sino-Tibetan",
+    "Region": "India",
+    "Speakers": 27000000,
+    "Writing System": "Latin",
+    "ISO Code": "kn"
+  },
+  {
+    "Language": "Amharic",
+    "Family": "Indo-European",
+    "Region": "China",
+    "Speakers": 26000000,
+    "Writing System": "Latin",
+    "ISO Code": "am"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Turkic",
+    "Region": "India",
+    "Speakers": 274000000,
+    "Writing System": "Latin",
+    "ISO Code": "ps"
+  },
+  {
+    "Language": "Tagalog",
+    "Family": "Sino-Tibetan",
+    "Region": "Iran",
+    "Speakers": 341000000,
+    "Writing System": "Latin",
+    "ISO Code": "awa"
+  },
+  {
+    "Language": "Telugu",
+    "Family": "Niger-Congo",
+    "Region": "Korea",
+    "Speakers": 20000000,
+    "Writing System": "Burmese",
+    "ISO Code": "ur"
+  },
+  {
+    "Language": "Southern Min",
+    "Family": "Indo-European",
+    "Region": "India",
+    "Speakers": 83000000,
+    "Writing System": "Traditional Chinese",
+    "ISO Code": "uz"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Indo-European",
+    "Region": "Italy",
+    "Speakers": 57000000,
+    "Writing System": "Hangul",
+    "ISO Code": "pl"
+  },
+  {
+    "Language": "Kannada",
+    "Family": "Indo-European",
+    "Region": "Nigeria",
+    "Speakers": 918000000,
+    "Writing System": "Latin",
+    "ISO Code": "pt"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Indo-Iranian",
+    "Region": "India",
+    "Speakers": 23000000,
+    "Writing System": "Latin",
+    "ISO Code": "ha"
+  },
+  {
+    "Language": "Spanish",
+    "Family": "Dravidian",
+    "Region": "Worldwide",
+    "Speakers": 76900000,
+    "Writing System": "Tamil",
+    "ISO Code": "bn"
+  },
+  {
+    "Language": "English",
+    "Family": "Indo-European",
+    "Region": "Germany, Austria",
+    "Speakers": 28000000,
+    "Writing System": "Latin",
+    "ISO Code": "hak"
+  },
+  {
+    "Language": "Xiang (Hunanese)",
+    "Family": "Indo-European",
+    "Region": "Worldwide",
+    "Speakers": 460000000,
+    "Writing System": "Kannada",
+    "ISO Code": "pa"
+  },
+  {
+    "Language": "Punjabi",
+    "Family": "Indo-European",
+    "Region": "Indonesia",
+    "Speakers": 83000000,
+    "Writing System": "Perso-Arabic",
+    "ISO Code": "de"
+  }
+]

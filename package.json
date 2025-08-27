@@ -1,0 +1,15 @@
+{
+  "name": "language-api",
+  "version": "1.0.0",
+  "description": "A Vercel serverless API for language dataset",
+  "type": "module",
+  "scripts": {
+    "dev": "echo No dev command defined",
+    "start": "node api/data.js",
+    "build": "echo No build step defined"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
